@@ -4,5 +4,3 @@ numpy
 matplotlib
 datetime
 plotly
-pydeck
-json
