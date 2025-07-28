@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+datetime
+networkx
+pyvis
+plotly
+pydeck
+json
